@@ -11,19 +11,19 @@
     <img src="/docs/img/escudo-png.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Algoritmos y Estructuras de Datos (IILI06004)</h3>
+  <h3 align="center">Circuitos Lógicos (MIE.SD01.09)</h3>
 
   <p align="center">
-    Licenciatura en Ingeniería de Datos e Inteligencia Artificial (IS75LI0801)
+    Maestría en Ingeniería Eléctrica (200322)
     <br />
-    <a href="https://github.com/ibarram/AyE"><strong>Explorar la documentación »</strong></a>
+    <a href="https://github.com/ibarram/CircuitosLogicos"><strong>Explorar la documentación »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ibarram/AyE">Ver Demo</a>
+    <a href="https://github.com/ibarram/CircuitosLogicos">Ver Demo</a>
     ·
-    <a href="https://github.com/ibarram/AyE/issues">Reportar Bug</a>
+    <a href="https://github.com/ibarram/CircuitosLogicos/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/ibarram/AyE/issues">Requiere Modificaciones</a>
+    <a href="https://github.com/ibarram/CircuitosLogicos/issues">Requiere Modificaciones</a>
   </p>
 </div>
 
