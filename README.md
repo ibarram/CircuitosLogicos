@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ibarram/CircuitosLogicos">
-    <img src="/doc/img/escudo-png.png" alt="Logo" width="120" height="120">
+    <img src="/docs/img/escudo-png.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Algoritmos y Estructuras de Datos (IILI06004)</h3>
