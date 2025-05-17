@@ -23,7 +23,7 @@
     ·
     <a href="https://github.com/ibarram/CircuitosLogicos/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/ibarram/CircuitosLogicos/issues">Requiere Modificaciones</a>
+    <a href="https://github.com/ibarram/CircuitosLogicos/discussions">Comunidad y foro de discusión</a>
   </p>
 </div>
 
