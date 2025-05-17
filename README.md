@@ -68,9 +68,18 @@ Se espera que los egresados de este programa:
 
 ### Contextualización
 
-La UDA de Algoritmos y Estructuras de Datos se imparte en el 3er. semestre del programa educativo.
+La Unidad de Aprendizaje Circuitos Lógicos se ubica en el segundo cuatrimestre del plan de estudios de la Maestría en Ingeniería Eléctrica, dentro del eje formativo de Sistemas Digitales. Su propósito es proporcionar a los estudiantes las bases teóricas y prácticas necesarias para el análisis, diseño y simulación de sistemas digitales, tanto combinacionales como secuenciales.
 
-Ubicada en la currícula dentro del Área Básica Común, esta unidad de aprendizaje contribuye al desarrollo de la comprensión lógica de los fenómenos naturales mediante el análisis cuantitativo y la aplicación de una metodología científica.
+Esta UDA es fundamental en la formación del estudiante, ya que:
+1. Consolida los conocimientos básicos en electrónica digital adquiridos en el primer cuatrimestre.
+2. Prepara al estudiante para abordar con éxito unidades de aprendizaje más avanzadas como:
+- Sistemas Digitales
+- Diseño de Sistemas con Dispositivos Lógicos
+- Microprocesadores
+
+A través de esta unidad, el estudiante desarrolla competencias clave en el uso de herramientas de diseño asistido por computadora (CAD), lenguajes de descripción de hardware (HDL), y plataformas de implementación como FPGAs, lo cual es esencial para su desempeño en actividades de docencia, investigación y desarrollo tecnológico.
+
+Además, esta UDA fortalece la capacidad del estudiante para identificar y resolver problemas técnicos complejos con un enfoque ético, profesional y socialmente responsable, alineado con el perfil de egreso del programa.
 
 ## Contenido
 
