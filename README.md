@@ -33,7 +33,7 @@
 
  * [Contenido](#Contenido)
 
- * [Competencia de la Unidad de Aprendizaje](#Competencia-de-la-Unidad-de-Aprendizaje)
+ * [Objetivo de la Unidad de Aprendizaje](#Objetivo-de-la-Unidad-de-Aprendizaje)
 
  * [Evaluación](#Evaluación)
 
@@ -45,7 +45,7 @@
 
  * [Bibliografía](#Bibliografía)
 
- * [Licencia](https://github.com/ibarram/AyE/blob/main/LICENSE)
+ * [Licencia](https://github.com/ibarram/CircuitosLogicos/blob/main/LICENSE)
 
 </p></details><p></p>
 
@@ -53,13 +53,18 @@
 
 ### Competencia de la UDA
 
-Implementa algoritmos que permiten la solución de problemas matemáticos de alto nivel que le brindarán los conocimientos para el desarrollo de software.
+Diseñar, simular e implementar sistemas digitales combinacionales y secuenciales, utilizando circuitos discretos, programables y de aplicación específica, mediante el uso de herramientas de diseño asistido por computadora y lenguajes de descripción de hardware, con un enfoque analítico, ético y socialmente responsable, que contribuya a la solución de problemas en el ámbito de la instrumentación y el control digital.
 
 ### Contribución de la UDA al Perfil de Egreso
 
-Esta Unidad de Aprendizaje incide de manera directa en la formación de la siguiente competencia:
+Esta Unidad de Aprendizaje está dirigida a estudiantes de la Maestría en Ingeniería Eléctrica, con el propósito de desarrollar su capacidad para resolver problemas reales mediante la aplicación de conocimientos en electrónica digital y diseño lógico.
 
-CE2. Desarrolla software mediante lenguajes de programación orientado a la solución de problemas de ingeniería de datos y sistemas inteligentes.
+Se espera que los egresados de este programa:
+
+1. Contribuyan significativamente al desarrollo tecnológico del país a través de actividades docentes, profesionales y de investigación en instrumentación y control digital.
+2. Apliquen conocimientos teóricos y prácticos en el diseño e implementación de sistemas digitales utilizando circuitos discretos, programables y de aplicación específica.
+3. Utilicen herramientas de diseño asistido por computadora (CAD) y lenguajes de descripción de hardware (HDL) para modelar y simular sistemas digitales.
+4. Demuestren conciencia social y responsabilidad profesional, identificando y resolviendo problemas que mejoren tanto su entorno laboral como la comunidad en la que viven.
 
 ### Contextualización
 
@@ -96,7 +101,7 @@ El [contenido](doc/pdf/Temario.pdf) de la Unidad de Aprendizaje es el siguinte:
 	* **Complejidad en el espacio**
 	* **Eficiencia de algoritmos**
 
-## Competencia de la Unidad de Aprendizaje
+## Objetivo de la Unidad de Aprendizaje
 
 Selecciona la combinación adecuada de estructuras de datos y algoritmos que sirva para optimizar los recursos de cómputo necesario. Aplica estas elecciones de diseño en el desarrollo de ingeniería de datos y sistemas inteligentes que contribuyen a la solución de problemas de ingeniería. Exhibe actitudes como el trabajo en equipos multi-disciplinarios.
 
